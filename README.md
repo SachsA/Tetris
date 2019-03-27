@@ -6,12 +6,6 @@
 ###### This is a game over game : there is no ending, you have to make the best score.
 ###### The objective is to make line, when you make a line with the differents tetriminos the line disapear, if the map is full, you loose.
 
-
-
-#### Project realised by:
-- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
-- **Corentin Thomazeau : [corentin.thomazeau@epitech.eu]()**
-
 ### Program compilation and launch:
   ```sh
         make
@@ -37,3 +31,7 @@ You can add as many as you want, the programm will check if they are valid or no
 ### Usage
 - If you reduce the size of the window, it will pause the game and ask you to put it in fullscreen.
 - On the left you can see the name of the next tetrimino, the score and the level.
+
+#### Project realised by:
+- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Corentin Thomazeau : [corentin.thomazeau@epitech.eu]()**
