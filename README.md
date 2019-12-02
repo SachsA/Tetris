@@ -33,5 +33,5 @@ You can add as many as you want, the programm will check if they are valid or no
 - On the left you can see the name of the next tetrimino, the score and the level.
 
 #### Project realised by:
-- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Alexandre Sachs : [alexandre.sachs@outlook.fr](https://github.com/SachsA)**
 - **Corentin Thomazeau : [corentin.thomazeau@epitech.eu]()**
